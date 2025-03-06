@@ -1,0 +1,1 @@
+2025-03-06 08:34:33: 4 ve 9 ile carpma islemleri yapildi. Sonuc: 36.000000
