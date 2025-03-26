@@ -1,4 +1,4 @@
-function manip
+function P2_manip
 	A = zeros(6,6);
 	sum_in_3 = 0;
 	max = 0;

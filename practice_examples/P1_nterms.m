@@ -11,7 +11,7 @@ A(k) = k^2 + (-1)^(k+1) x k
 generated terms
 %}
 
-function nterms
+function P1_nterms
 	i = input('please enter the index you want to calculate: ');
 	A = zeros(1:i);
 	sum = 0;
